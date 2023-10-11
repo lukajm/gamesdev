@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8bc3786c8d17f418dfd6e8c2b8c9cf, type: 3}
+  m_Name: Staff
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <Name>k__BackingField: Magic Staff
+  <Description>k__BackingField: Randomized powerful magic.
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 11f911e9c0e9672479ab5bdbc75bd7f2, type: 3}
+  equipAnimation: {fileID: 7400000, guid: 1cdea7134b8a98d4ead4bdfcdfb15623, type: 2}
+  strength: 0
+  range: 0
+  speed: 3

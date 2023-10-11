@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68d9494e0ff86ab44aaddca6425761ae, type: 3}
+  m_Name: Lemon
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <Name>k__BackingField: Lemon
+  <Description>k__BackingField: It tastes bitter. Strength and health down but range
+    and speed up.
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: cea7a65d062aefa4eb38313d3368ce1a, type: 3}
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: 51cbdc6dc6cc7f944ab77a6f78dccc67, type: 2}
+    value: -5
+  - statModifier: {fileID: 11400000, guid: 583b8181dbf777d4b9da22bea5b5864f, type: 2}
+    value: -10
+  - statModifier: {fileID: 11400000, guid: 1c4a74cdbbae5a342900d4a12b151267, type: 2}
+    value: 1
+  - statModifier: {fileID: 11400000, guid: 85b0f8c00a66d754081edf2b45d2a8de, type: 2}
+    value: 1

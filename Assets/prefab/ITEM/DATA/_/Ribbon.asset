@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68d9494e0ff86ab44aaddca6425761ae, type: 3}
+  m_Name: Ribbon
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <Name>k__BackingField: Challenger's Ribbon
+  <Description>k__BackingField: You become very powerful, just don't get hit.
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 39d5efc6fe73e52418f332567ad6a833, type: 3}
+  modifiersData:
+  - statModifier: {fileID: 11400000, guid: 5140a2e9fbac2b849b57e33f01986702, type: 2}
+    value: 5
+  - statModifier: {fileID: 11400000, guid: 583b8181dbf777d4b9da22bea5b5864f, type: 2}
+    value: 50
